@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Samsung Galaxy Tab S8 Ultra 37.08 cm (14.6 inch) ",
+        "price": "100",
+        "description": "Display size - 37.08 cm (14.6 inch) Cinematic Display, 2960x1848, 239ppi; Display Type sAMOLED Screen; Screen refresh rate (120Hz) Calling supported - Wi-Fi calling; 12 GB RAM, 256 GB Internal Memory (expandable to 1 TB) Processor Description - Octa-Core2.99ghz,2.4ghz,1.7ghz; Operating system - Android 12 Battery power - 11200 mAh Long Lasting Battery, Upto 14 Hrs Video Playback, Super Fast Charging upto 45W; 13/6MP (Dual) + Flash Rear Camera ,12MP (Wide) 12MP (Ultra Wide) Front Camera; Camera Flash - Yes Rear",
+        "ratings" : 4.5,
+        "images": [{
+            "public_id": "products/asjdkl;bkvfguyahjksbndkhj",
+            "url": "https://m.media-amazon.com/images/I/81Vs371KLML._SL1500_.jpg"
+        }],
+        "category": "Electronics",
+        "seller": "Amazon",
+        "stock": 1,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Samsung Galaxy Tab S8 Ultra 37.08 cm (14.6 inch) ",
+        "price": "100",
+        "description": "Display size - 37.08 cm (14.6 inch) Cinematic Display, 2960x1848, 239ppi; Display Type sAMOLED Screen; Screen refresh rate (120Hz) Calling supported - Wi-Fi calling; 12 GB RAM, 256 GB Internal Memory (expandable to 1 TB) Processor Description - Octa-Core2.99ghz,2.4ghz,1.7ghz; Operating system - Android 12 Battery power - 11200 mAh Long Lasting Battery, Upto 14 Hrs Video Playback, Super Fast Charging upto 45W; 13/6MP (Dual) + Flash Rear Camera ,12MP (Wide) 12MP (Ultra Wide) Front Camera; Camera Flash - Yes Rear",
+        "ratings" : 4.5,
+        "images": [{
+            "public_id": "products/asjdkl;bkvfguyahjksbndkhj",
+            "url": "https://m.media-amazon.com/images/I/81Vs371KLML._SL1500_.jpg"
+        }],
+        "category": "Electronics",
+        "seller": "Amazon",
+        "stock": 1,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Samsung Galaxy Tab S8 Ultra 37.08 cm (14.6 inch) ",
+        "price": "100",
+        "description": "Display size - 37.08 cm (14.6 inch) Cinematic Display, 2960x1848, 239ppi; Display Type sAMOLED Screen; Screen refresh rate (120Hz) Calling supported - Wi-Fi calling; 12 GB RAM, 256 GB Internal Memory (expandable to 1 TB) Processor Description - Octa-Core2.99ghz,2.4ghz,1.7ghz; Operating system - Android 12 Battery power - 11200 mAh Long Lasting Battery, Upto 14 Hrs Video Playback, Super Fast Charging upto 45W; 13/6MP (Dual) + Flash Rear Camera ,12MP (Wide) 12MP (Ultra Wide) Front Camera; Camera Flash - Yes Rear",
+        "ratings" : 4.5,
+        "images": [{
+            "public_id": "products/asjdkl;bkvfguyahjksbndkhj",
+            "url": "https://m.media-amazon.com/images/I/81Vs371KLML._SL1500_.jpg"
+        }],
+        "category": "Electronics",
+        "seller": "Ebay",
+        "stock": 1,
+        "numOfReviews": 12,
+        "reviews": []
+    }
+]
